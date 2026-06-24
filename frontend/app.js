@@ -1,0 +1,1 @@
+// Frontend logic from Part 2 (truncated for archive demo).
